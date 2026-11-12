@@ -1,2 +1,2 @@
-# Memory Game - A Windows Forms App
+# Memory Game - A Windows Forms Application
 
