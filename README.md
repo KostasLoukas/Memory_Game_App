@@ -1,6 +1,6 @@
 # Memory Game - A Windows Forms Application
 
-The Windows Forms Application is a game that tests one's memory. The goal of this game is to lift all pairs of images that exist
+This Windows Forms Application is a game that tests one's memory. The goal of this game is to lift all pairs of images that exist
 in the game's table.
 
 The game starts with a simple button as shown below:
