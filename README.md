@@ -15,4 +15,5 @@ blocks will go back to being hidden after a short amount of time.
 
 When the player has managed to turn all the pairs of blocks correctly, then the following message will be displayed and the game
 will end:
+
 <img width="616" height="330" alt="image" src="https://github.com/user-attachments/assets/f6b2465f-f370-4343-b4db-00a106ed9868" />
