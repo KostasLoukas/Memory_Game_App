@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kosta\\Desktop\\\u03A4\u03B5\u03BB\u03B9\u03BA\u03B7 \u0395\u03C1\u03B3\u03B1\u03C3\u03B9\u03B1\\Memory_Game_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{612D0C51-66AE-434D-BB9D-43A58BEA60E8}|FormsAppsWithDatabase\\Memory_Game_App.csproj|c:\\users\\kosta\\desktop\\\u03C4\u03B5\u03BB\u03B9\u03BA\u03B7 \u03B5\u03C1\u03B3\u03B1\u03C3\u03B9\u03B1\\memory_game_app\\formsappswithdatabase\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{612D0C51-66AE-434D-BB9D-43A58BEA60E8}|FormsAppsWithDatabase\\Memory_Game_App.csproj|solutionrelative:formsappswithdatabase\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{612D0C51-66AE-434D-BB9D-43A58BEA60E8}|FormsAppsWithDatabase\\Memory_Game_App.csproj|C:\\Users\\kosta\\Desktop\\\u03A4\u03B5\u03BB\u03B9\u03BA\u03B7 \u0395\u03C1\u03B3\u03B1\u03C3\u03B9\u03B1\\Memory_Game_App\\formsappswithdatabase\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{612D0C51-66AE-434D-BB9D-43A58BEA60E8}|FormsAppsWithDatabase\\Memory_Game_App.csproj|solutionrelative:formsappswithdatabase\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kosta\\Desktop\\\u03A4\u03B5\u03BB\u03B9\u03BA\u03B7 \u0395\u03C1\u03B3\u03B1\u03C3\u03B9\u03B1\\Memory_Game_App\\FormsAppsWithDatabase\\Form1.cs",
+              "RelativeDocumentMoniker": "FormsAppsWithDatabase\\Form1.cs",
+              "ToolTip": "C:\\Users\\kosta\\Desktop\\\u03A4\u03B5\u03BB\u03B9\u03BA\u03B7 \u0395\u03C1\u03B3\u03B1\u03C3\u03B9\u03B1\\Memory_Game_App\\FormsAppsWithDatabase\\Form1.cs [Design]",
+              "RelativeToolTip": "FormsAppsWithDatabase\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T19:11:56.64Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\kosta\\Desktop\\\u03A4\u03B5\u03BB\u03B9\u03BA\u03B7 \u0395\u03C1\u03B3\u03B1\u03C3\u03B9\u03B1\\Memory_Game_App\\FormsAppsWithDatabase\\Form1.cs",
+              "RelativeDocumentMoniker": "FormsAppsWithDatabase\\Form1.cs",
+              "ToolTip": "C:\\Users\\kosta\\Desktop\\\u03A4\u03B5\u03BB\u03B9\u03BA\u03B7 \u0395\u03C1\u03B3\u03B1\u03C3\u03B9\u03B1\\Memory_Game_App\\FormsAppsWithDatabase\\Form1.cs",
+              "RelativeToolTip": "FormsAppsWithDatabase\\Form1.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAYwKcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T11:19:03.152Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
