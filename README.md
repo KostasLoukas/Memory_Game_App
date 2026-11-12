@@ -1,7 +1,7 @@
 # Memory Game - A Windows Forms Application
 
 This Windows Forms Application is a game that tests one's memory. The goal of this game is to lift all pairs of images that exist
-in the game's table.
+in the game's table consecutively.
 
 The game starts with a simple button as shown below:
 <img width="620" height="307" alt="image" src="https://github.com/user-attachments/assets/6d4fea79-e8ed-4e76-8fb2-a1ec1d34b379" />
